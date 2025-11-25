@@ -9,7 +9,7 @@ This is a frontend implementation of a job listing page with a hero search bar, 
 - **TypeScript**
 - **Tailwind CSS**
 - **Swiper.js** (carousel)
-- **Figma designs used as reference** (if applicable)
+- **Figma designs used as reference**
 
 ## Notes
 - This project is frontend only. The search input is controlled but not connected to a backend.
